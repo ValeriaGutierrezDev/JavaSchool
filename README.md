@@ -1,3 +1,6 @@
 # JavaSchool
 Beginning project related to supermarket system.
-First step with models
+First steps with the following model:
+
+
+![Modelo](https://drive.google.com/file/d/1F7l8JcoYC0AJqeplJqJuvXrzP0UWNHcu/view?usp=sharing) "Supermarket model")
